@@ -3,7 +3,6 @@
   "values": [
     "minecraft:deepslate",
     "minecraft:tuff",
-    "minecraft:deepslate_tiles",
-    "blackstone"
+    "minecraft:blackstone"
   ]
 }

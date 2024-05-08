@@ -14,6 +14,45 @@
     "terralith:witch_hut": {
         "item": "minecraft:brown_mushroom"
     },
+    "terralith:mage_tower": {
+        "item": "minecraft:medium_amethyst_bud"
+    },
+    "terralith:mage_complex": {
+        "item": "minecraft:large_amethyst_bud"
+    },
+    "terralith:mage_tower_autumn": {
+        "item": "minecraft:lantern"
+    },
+    "terralith:mage_tower_spring": {
+        "item": "minecraft:cherry_leaves"
+    },
+    "terralith:mage_tower_summer": {
+        "item": "minecraft:torchflower"
+    },
+    "terralith:mage_tower_winter": {
+        "item": "minecraft:snow_block"
+    },
+    "terralith:igloo": {
+        "item": "minecraft:blue_ice"
+    },
+    "terralith:rubble_forest": {
+        "item": "minecraft:shelter_pottery_sherd"
+    },
+    "terralith:rubble_taiga": {
+        "item": "minecraft:howl_pottery_sherd"
+    },
+    "terralith:rubble_mountain": {
+        "item": "minecraft:miner_pottery_sherd"
+    },
+    "terralith:rubble_mesa": {
+        "item": "minecraft:plenty_pottery_sherd"
+    },
+    "terralith:rubble_jungle": {
+        "item": "minecraft:danger_pottery_sherd"
+    },
+    "terralith:rubble_desert": {
+        "item": "minecraft:skull_pottery_sherd"
+    },
     "terralith:underground/frosted_dungeon": {
         "item": "minecraft:polished_deepslate"
     },
@@ -31,6 +70,9 @@
     },
     "terralith:underground/sunken_tower": {
         "item": "minecraft:stripped_spruce_log"
+    },
+    "terralith:underground/witch_hut": {
+        "item": "minecraft:brown_mushroom"
     },
     "terralith:underground_cabin": {
         "item": "minecraft:moss_block"

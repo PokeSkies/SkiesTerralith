@@ -159,10 +159,7 @@
     "replaceable": "#terralith:savanna_terracotta",
     "surface": "floor",
     "vegetation_chance": 0,
-    "vegetation_feature": {
-      "feature": "minecraft:moss_vegetation",
-      "placement": []
-    },
+    "vegetation_feature": "terralith:nothing",
     "vertical_range": 2,
     "xz_radius": {
       "type": "minecraft:uniform",

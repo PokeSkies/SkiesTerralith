@@ -521,10 +521,46 @@
         "b": 52,
         "name": "Lush Desert"
     },
-    "terralith:snowy_cherry_grove": {
+    "terralith:cave/andesite_caves": {
+        "r": 198,
+        "g": 197,
+        "b": 212,
+        "name": "Andesite Caves"
+    },
+    "terralith:cave/diorite_caves": {
         "r": 226,
-        "g": 211,
-        "b": 245,
-        "name": "Snowy Cherry Grove"
+        "g": 225,
+        "b": 242,
+        "name": "Diorite Caves"
+    },
+    "terralith:cave/fungal_caves": {
+        "r": 194,
+        "g": 159,
+        "b": 118,
+        "name": "Fungal Caves"
+    },
+    "terralith:cave/granite_caves": {
+        "r": 222,
+        "g": 151,
+        "b": 133,
+        "name": "Granite Caves"
+    },
+    "terralith:cave/infested_caves": {
+        "r": 135,
+        "g": 69,
+        "b": 126,
+        "name": "Infested Caves"
+    },
+    "terralith:cave/thermal_caves": {
+        "r": 199,
+        "g": 85,
+        "b": 28,
+        "name": "Thermal Caves"
+    },
+    "terralith:cave/underground_jungle": {
+        "r": 29,
+        "g": 150,
+        "b": 57,
+        "name": "Underground Jungle"
     }
 }

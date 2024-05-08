@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "pattern": [
+        "X",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "tag": "terralith:cobblestone_recipe_alts_extended"
+        },
+        "X": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:lever",
+        "id": "minecraft:lever",
+        "count": 1
+    }
+}

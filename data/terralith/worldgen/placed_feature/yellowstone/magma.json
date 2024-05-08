@@ -4,17 +4,11 @@
     {
       "type": "minecraft:count",
       "count": {
-        "type": "minecraft:weighted_list",
-        "distribution": [
-          {
-            "data": 3,
-            "weight": 100
-          },
-          {
-            "data": 2,
-            "weight": 100
-          }
-        ]
+        "type": "minecraft:uniform",
+        "value": {
+          "min_inclusive": 2,
+          "max_inclusive": 3
+        }
       }
     },
     {

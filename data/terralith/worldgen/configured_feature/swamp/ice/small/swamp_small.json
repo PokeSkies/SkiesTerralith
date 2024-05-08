@@ -4,7 +4,7 @@
     "decorators": [
       {
         "type": "minecraft:leave_vine",
-        "probability": 0.25
+        "probability": 0.05
       }
     ],
     "dirt_provider": {
@@ -20,26 +20,15 @@
       "radius": 0
     },
     "foliage_provider": {
-      "type": "minecraft:weighted_state_provider",
-      "entries": [
-        {
-          "data": {
-            "Name": "minecraft:oak_leaves",
-            "Properties": {
-              "distance": "7",
-              "persistent": "false",
-              "waterlogged": "false"
-            }
-          },
-          "weight": 4
-        },
-        {
-          "data": {
-            "Name": "minecraft:air"
-          },
-          "weight": 2
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:mangrove_leaves",
+        "Properties": {
+          "distance": "7",
+          "persistent": "false",
+          "waterlogged": "false"
         }
-      ]
+      }
     },
     "force_dirt": false,
     "ignore_vines": false,
@@ -48,15 +37,6 @@
       "limit": 1,
       "lower_size": 0,
       "upper_size": 1
-    },
-    "sapling_provider": {
-      "type": "minecraft:simple_state_provider",
-      "state": {
-        "Name": "minecraft:oak_sapling",
-        "Properties": {
-          "stage": "0"
-        }
-      }
     },
     "trunk_placer": {
       "type": "minecraft:forking_trunk_placer",
@@ -67,7 +47,7 @@
     "trunk_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:oak_log",
+        "Name": "minecraft:mangrove_log",
         "Properties": {
           "axis": "y"
         }

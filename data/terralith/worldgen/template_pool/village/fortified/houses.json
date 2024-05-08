@@ -109,6 +109,15 @@
       "weight": 2
     },
     {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "terralith:village/fortified/houses/church",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "terralith:village/fortified/houses/archer",
@@ -175,15 +184,6 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "terralith:village/fortified/houses/graveyard",
-        "processors": "minecraft:empty",
-        "projection": "rigid"
-      },
-      "weight": 2
-    },
-    {
-      "element": {
-        "element_type": "minecraft:single_pool_element",
-        "location": "terralith:village/fortified/houses/big1",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },

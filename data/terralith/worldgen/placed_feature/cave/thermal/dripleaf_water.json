@@ -1,5 +1,5 @@
 {
-  "feature": "terralith:swamp/vanilla/dripleaf",
+  "feature": "terralith:swamp/vanilla/water_decor",
   "placement": [
     {
       "type": "minecraft:count_on_every_layer",
@@ -45,7 +45,8 @@
             "blocks": [
               "minecraft:clay",
               "minecraft:dirt",
-              "blackstone"
+              "minecraft:mud",
+              "minecraft:blackstone"
             ],
             "offset": [
               0,
