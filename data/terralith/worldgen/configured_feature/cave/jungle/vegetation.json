@@ -6,7 +6,23 @@
                 "chance": 0.75,
                 "feature": {
                     "feature": "terralith:cave/jungle/low_foliage",
-                    "placement": []
+                    "placement": [
+                        {
+                            "type": "minecraft:block_predicate_filter",
+                            "predicate": {
+                                "type": "minecraft:matching_blocks",
+                                "offset": [
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "blocks": [
+                                    "minecraft:air",
+                                    "minecraft:cave_air"
+                                ]
+                            }
+                        }
+                    ]
                 }
             },
             {

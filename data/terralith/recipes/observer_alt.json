@@ -8,7 +8,7 @@
     ],
     "key": {
         "#": {
-            "tag": "terralith:cobblestone_recipe_alts_extended"
+            "tag": "minecraft:stone_crafting_materials"
         },
         "Q": {
             "item": "minecraft:quartz"
