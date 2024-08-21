@@ -35,15 +35,6 @@
                 }
             ],
             "rolls": 1
-        },
-        {
-            "entries": [
-                {
-                    "type": "minecraft:loot_table",
-                    "name": "terralith:royal_jelly"
-                }
-            ],
-            "rolls": 1
         }
     ]
 }

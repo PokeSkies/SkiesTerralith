@@ -50,11 +50,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:bundle",
-          "weight": 7
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:lead",
           "weight": 7
         }

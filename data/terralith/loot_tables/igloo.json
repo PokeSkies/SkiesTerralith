@@ -5,42 +5,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:cherry_sapling",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_nbt",
-                            "tag": "{Enchantments:[{}]}"
-                        },
-                        {
-                            "function": "minecraft:set_name",
-                            "entity": "this",
-                            "name": {
-                                "text": "Wintry Cherry Sapling",
-                                "color": "#FFDEFB",
-                                "italic": false
-                            }
-                        },
-                        {
-                            "function": "minecraft:set_lore",
-                            "entity": "this",
-                            "lore": [
-                                {
-                                    "text": "\"Snowy Cherry Grove is the best biome.\"",
-                                    "color": "gray",
-                                    "italic": false
-                                },
-                                {
-                                    "text": "- Apollo",
-                                    "color": "gray",
-                                    "italic": false
-                                },
-                                {
-                                    "text": "Terralith",
-                                    "color": "#115060"
-                                }
-                            ]
-                        }
-                    ]
+                    "name": "minecraft:cherry_sapling"
                 }
             ]
         },
